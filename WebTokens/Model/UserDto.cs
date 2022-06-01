@@ -1,4 +1,4 @@
-﻿namespace WebTokens
+﻿namespace WebTokens.Model
 {
     public class UserDto
     {
